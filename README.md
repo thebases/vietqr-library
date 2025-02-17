@@ -1,1 +1,1 @@
-# vietqr-library
+# A collection of VietQR library for developer
